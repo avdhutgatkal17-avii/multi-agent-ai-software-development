@@ -1,5 +1,3 @@
-# multi-agent-ai-software-development
-AI-powered multi-agent system for automated software development using LangGraph, LangChain, Python and FastAPI.
 # 🤖 Multi-Agent AI System for Automated Software Development
 
 An AI-powered web application that automates software development tasks using specialized AI agents. The system understands software requirements, generates a structured development plan, and produces Python code through coordinated AI workflows.
